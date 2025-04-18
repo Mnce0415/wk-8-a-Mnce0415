@@ -22,7 +22,4 @@ A FastAPI project with full CRUD operations for managing an inventory system wit
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD][def]
-
-
-[def]: https://github.com/Mnce0415/inventory-api/raw/main"C:\Users\franc\PLP Full stack\Database (MySQL)\Screenshot.png"
+![ERD Diagram](Screenshot.png)
