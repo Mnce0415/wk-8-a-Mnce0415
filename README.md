@@ -1,5 +1,7 @@
 # Inventory CRUD API
 
+1. Project title: Inventory Manager
+
 ## 📌 Description
 A FastAPI project with full CRUD operations for managing an inventory system with MySQL.
 
@@ -18,5 +20,9 @@ A FastAPI project with full CRUD operations for managing an inventory system wit
 - `PUT /products/{id}` – Update product
 - `DELETE /products/{id}` – Delete product
 
-## 🗺 ERD Diagram
-![ERD](link-to-screenshot-if-available)
+## Entity Relationship Diagram (ERD)
+
+![ERD][def]
+
+
+[def]: https://github.com/Mnce0415/inventory-api/raw/main"C:\Users\franc\PLP Full stack\Database (MySQL)\Screenshot.png"
